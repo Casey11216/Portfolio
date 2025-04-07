@@ -18,7 +18,7 @@
 2. Clone the repository:
 
    ```shell
-   git clone 
+   git clone https://github.com/Casey11216/Portfolio
    ```
 3. Navigate to the project directory:
 
