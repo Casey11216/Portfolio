@@ -1,0 +1,309 @@
+{
+  "Projects": [
+    {
+      "show": true,
+      "title": "Davidson Homes",
+      "desc": [
+        "A headless website for one of the fastest growing home builders in Southeast USA."
+      ],
+      "year": "2021",
+      "preview": "https://www.davidsonhomes.com/",
+      "code": "",
+      "thumbnail": "/image/projects/web/davidson-homes/main.png",
+      "images": [
+        "/image/projects/web/davidson-homes/main.png",
+        "/image/projects/web/davidson-homes/1.png",
+        "/image/projects/web/davidson-homes/2.png"      
+      ],
+      "tech": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "GraphQL",
+        "Vercel",
+        "UI design"
+      ], 
+      "slug": "davidson-homes",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Hermitage Vital Resort",
+      "desc": [
+        "Hermitage Vital Resort Website Relaunch. Redesign and development with WordPress CMS and modular backend."
+      ],
+      "year": "2021",
+      "preview": "https://hermitage.at/",
+      "code": "",
+      "thumbnail": "/image/projects/web/hermitage/main.png",
+      "images": [
+        "/image/projects/web/hermitage/main.png",
+        "/image/projects/web/hermitage/1.png",
+        "/image/projects/web/hermitage/2.png"   
+      ],
+      "tech": [
+        "WordPress",
+        "HTML5",
+        "Figma",
+        "CSS",        
+        "UI design"
+      ], 
+      "slug": "hermitage",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "POLAROID",
+      "desc": [
+        "Redesigned and rebuilt digital flagship store that captures their brand's essence by celebrating tangible creativity, promoting education, and building community."
+      ],
+      "year": "2022",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/web/polaroid/main.png",
+      "images": [
+        "/image/projects/web/polaroid/main.png",
+        "/image/projects/web/polaroid/1.png",
+        "/image/projects/web/polaroid/2.png"     
+      ],
+      "tech": [
+        "React",
+        "Vue.js",
+        "Laravel",
+        "E-Commerce",        
+        "UI design"
+      ], 
+      "slug": "polaroid",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "DRESS FOR DIGNITY",
+      "desc": [
+        "A multi-vendor eCommerce platform powering a world-first vision of a fashionate place where people can unite together and sell their pre-loved fashion items."
+      ],
+      "year": "2020",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/web/dress/main.png",
+      "images": [
+        "/image/projects/web/dress/main.png",
+        "/image/projects/web/dress/1.png"            
+      ],
+      "tech": [
+        "E-Commerce",
+        "Laravel",
+        "JavaScript",
+        "HMTL5",        
+        "Tailwind CSS"
+      ], 
+      "slug": "dress",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "ORCHESTRA SOFTWARE",
+      "desc": [
+        "Orchestra is the #1 ERP for the regulated beverage industry. We created the new website, digital experience, graphics and other marketing materials for Orchestra's new brand relaunch."
+      ],
+      "year": "2021",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/web/orchestra/main.png",
+      "images": [
+        "/image/projects/web/orchestra/main.png"     
+      ],
+      "tech": [
+        "Angular",
+        "React",
+        "HML5",
+        "CSS Framework",        
+        "jQuery"
+      ], 
+      "slug": "orchestra",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "FARM TO PEOPLE",
+      "desc": [
+        "Bean designed and developed a e-commerce platform that sells CSA boxes and other local sourced, sustainable foods. The platform allows users to customize weekly boxes."
+      ],
+      "year": "2019",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/web/farm/main.png",
+      "images": [
+        "/image/projects/web/farm/main.png",
+        "/image/projects/web/farm/1.png"     
+      ],
+      "tech": [
+        "Vue.js",
+        "Node.js",
+        "Nuxt.js",
+        "E-commerce",
+        "Figma",        
+        "Netlify"
+      ], 
+      "slug": "farm",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Mind Mirror",
+      "desc": [
+        "LMS website that integrated Generative AI feauture to track studnet various keys like mood, behavior, and cognitive ability when learning. The website is built using Laravel as a fullstack framework. In this website teacher can track student mood and other metrics data based on the material students accessed."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/web/mind-mirror/mind-thumbnail.jpg",
+      "images": [
+        "/image/projects/web/mind-mirror/mind1.png",
+        "/image/projects/web/mind-mirror/mind2.png",
+        "/image/projects/web/mind-mirror/mind3.png",
+        "/image/projects/web/mind-mirror/mind4.png",
+        "/image/projects/web/mind-mirror/mind5.png"
+      ],
+      "tech": [
+        "PHP",
+        "Laravel",
+        "Bootstrap",
+        "MySQL",
+        "jQuery",
+        "DataTables"
+      ], 
+      "slug": "mind-mirror",
+      "category": [1, 2]
+    },
+    {
+      "show": true,
+      "title": "Javanese Translation Website",
+      "desc": [
+        "A Javanese ngoko - krama translation website that I created as a collaborative project with my friends. The website is built using the original Transformer architecture by Vaswani et al. (2017). Built with Python, TensorFlow, Flask, HTML, and CSS, the website allows users to input text in Javanese krama and receive the corresponding ngoko translation.", 
+        "The website is designed to be simple to use, with a clean and modern interface that appeals to a wide audience. Users can input text in Javanese krama and receive the corresponding ngoko translation. The Project also provide ipynb file for the model training and the model itself."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/ai/javanese-translation/javanese-translation-thumbnail.jpg",
+      "images": [
+        "/image/projects/ai/javanese-translation/javanese-translation1.png",
+        "/image/projects/ai/javanese-translation/javanese-translation2.png"
+      ],
+      "tech": [
+        "Transformers",
+        "Python",
+        "Tensorflow",
+        "Flask",
+        "HTML",
+        "CSS"
+      ], 
+      "slug": "javanese-translation",
+      "category": [2]
+    },
+    {
+      "show": true,
+      "title": "SIPETI: Heart Prediction Website",
+      "desc": [
+        "This is a Machine Learning based website that I created as a collage project. The website is built using Decision Tree algorithm and Flask. The website is a heart attack prediction website that can predict whether a person will get a heart attack or not based on their health condition.",
+        "In this website user can predict, customize dataset, customize model, and see the model performance. The website also has a few features such as a dashboard for the user to see the model performance, and a few charts to visualize the decision tree model."
+      ],
+      "year": "2024",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/ai/heart-attack-prediction/heart-attack-prediction-thumbnail.jpg",
+      "images": [
+        "/image/projects/ai/heart-attack-prediction/heart-attack1.png",
+        "/image/projects/ai/heart-attack-prediction/heart-attack2.png",
+        "/image/projects/ai/heart-attack-prediction/heart-attack3.png",
+        "/image/projects/ai/heart-attack-prediction/heart-attack4.png",
+        "/image/projects/ai/heart-attack-prediction/heart-attack5.png"
+      ],
+      "tech": [
+        "Decision Tree",
+        "Python",
+        "Sklearn",
+        "Flask",
+        "HTML",
+        "CSS"
+      ], 
+      "slug": "heart-attack",
+      "category": [2]
+    },
+    {
+      "show": true,
+      "title": "Generative Trivia",
+      "desc": [
+        "A generative trivia website built with Next.js, Firebase, NextAuth, Google OAuth, and TypeScript. Users can generate trivia questions for predefined school subjects and answer them with a unique interactive input style. The application supports user authentication with Google and stores data in Firestore.",
+        "The project is a culmination of my passion for web development and my desire to create a fun and interactive learning platform. The website is designed to be user-friendly and engaging, with a clean and modern interface that appeals to a wide audience. The trivia questions are generated using the Gemini API, which provides a diverse range of questions for users to answer."
+      ],
+      "year": "2024",
+      "preview": "https://generative-trivia.vercel.app/",
+      "code": "https://github.com/Casey11216/Generative-Trivia",
+      "thumbnail": "/image/projects/web/trivia/trivia-thumbnail.png",
+      "images": [
+        "/image/projects/web/trivia/trivia1.png",
+        "/image/projects/web/trivia/trivia2.png",
+        "/image/projects/web/trivia/trivia3.png"
+      ],
+      "tech": [
+        "NextJS",
+        "Shadcn UI",
+        "Tailwind CSS",
+        "Firebase",
+        "Gemini API"
+      ], 
+      "slug": "trivia",
+      "category": [1, 2]
+    },
+    
+    {
+      "show": true,
+      "title": "LUDOang",
+      "desc": [
+        "LUDOang is a game project. The game is built python, pygame, and OpenGL. The game is a 2D game that is inspired by a Ludo game. The game has a few features such randomZone, and a 3D dice.",
+        "RandomZone is a feature that allows the player to get a random number of steps. The 3D dice is a feature that allows the player to roll a 3D dice. The game also has a few other features menuy screen and also loading screen.", "Beside that the game also has a audio theme that will play when the game is started. The game also has a few sound effects such as dice roll sound, and a sound when the player win the game."
+      ],
+      "year": "2023",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/other/LUDOang/ludo-thumbnail.png",
+      "images": [
+        "/image/projects/other/LUDOang/ludo1.png",
+        "/image/projects/other/LUDOang/ludo2.png",
+        "/image/projects/other/LUDOang/ludo3.png"
+      ],
+      "tech": [
+        "Python",
+        "Pygame",
+        "OpenGL"
+      ], 
+      "slug": "ludoang",
+      "category": [9]
+    },
+    
+    {
+      "show": true,
+      "title": "Aleph Discord Bot",
+      "desc": [
+        "Aleph is a Discord bot that I created for my dircord server to use. The bot is built using Python and the discord.py library. The bot has image grabber feauture that takes argument (keywords) and returns an image from the internet.", "Other than that this bot has a few other features such as utility command to delete a messages, and a command to get the server's ping. This bot is still in development and I plan to add more features in the future."],
+      "year": "2023",
+      "preview": "",
+      "code": "",
+      "thumbnail": "/image/projects/other/bot/bot-thumbnail.png",
+      "images": [
+        "/image/projects/other/bot/bot1.png",
+        "/image/projects/other/bot/bot2.png"
+      ],
+      "tech": [
+        "Python",
+        "Discord.py",
+        "Google Serp API"
+      ],
+      "slug": "aleph-discord-bot",
+      "category": [9]
+    }
+    
+  ]
+}
